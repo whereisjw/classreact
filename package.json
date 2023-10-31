@@ -1,0 +1,8 @@
+{
+  "name": "classreact",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/whereisjw/classreact.git",
+  "author": "jiwon park <park1770012848@gmail.com>",
+  "license": "MIT"
+}
