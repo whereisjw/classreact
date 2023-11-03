@@ -1,0 +1,37 @@
+.profile {
+  background-color: lightgray;
+  position: relative;
+  display: flex;
+  padding: 10px;
+  margin: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  width: 250px;
+  max-width: 480px;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.img {
+  margin-top: 10px;
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+  box-sizing: border-box;
+}
+.img_box {
+  position: relative;
+  width: 150px;
+  height: 150px;
+}
+
+.new {
+  position: absolute;
+  left: 70%;
+  top: 10%;
+  background-color: rgba(53, 152, 192, 0.75);
+  padding: 0.1rem 0.5rem;
+}

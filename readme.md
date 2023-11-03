@@ -49,4 +49,16 @@
 https://yarnpkg.com/getting-started/install
 ```
 
-# 7.
+# 용어정리
+
+- 리액트를 사용하며 .. 하나의 언어로 클라이언트와 서버를 동시에 개발을 할 수 있음
+- babel: 브라우저의 자바스크립트 엔진 버전에 맞춰 자동으로 변환(브라우저마다 다른 엔진버전이 다르기때문에 최신 리액트 자바스크립트 코드를 낮은 버전의 자바스크립트 버전을 바꿔주는 기능을 함)
+- webpack : 프로젝트 코드를 배포시 번들(포장)하는 작업(번들링)을 해주는 툴
+- ESLint : 작성하는 코드를 체크해주는 기능을 가진 툴
+- jest : 유닛테스트 , 기능 체크등 테스트를 진행하는 프레임워크
+- 기타 다른 툴들도 create-react-app 으로 프로젝트 생성 시함께 설치
+
+  5)브라우저 및 익스텐션
+
+- 크롬 브라우저 확장 프로그램(react develop tools)
+  https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ko
