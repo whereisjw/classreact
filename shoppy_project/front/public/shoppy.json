@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "name": "분홍소시지 후드",
+      "price":150000,
+      "description": "분홍색의 후드입니다",
+      "url": "/images/image/1.webp"
+    },
+    {
+        "id": "2",
+        "name": "검정콩후드",
+        "price":150000,
+        "description": "검정색 후드티셔츠입니다.",
+        "url": "/images/image/2.webp"
+      },
+      {
+        "id": "3",
+        "name": "베이지 원피스",
+        "price":150000,
+        "description": "원피스입니다",
+        "url": "/images/image/3.webp"
+      },
+      {
+        "id": "4",
+        "name": "베이지 바지",
+        "price":150000,
+        "description": "신축성과 통기성이 좋은 소재의 의류입니다",
+        "url": "/images/image/4.webp"
+      },
+      {
+        "id": "5",
+        "name": "줄무늬 티셔츠",
+        "price":150000,
+        "description": "신축성과 통기성이 좋은 소재의 의류입니다",
+        "url": "/images/image/5.webp"
+      },
+      {
+        "id": "6",
+        "name": "줄무늬 원피스",
+        "price":150000,
+        "description": "신축성과 통기성이 좋은 소재의 의류입니다",
+        "url": "/images/image/6.webp"
+      },
+      {
+        "id": "7",
+        "name": "눈아파 티셔츠",
+        "price":150000,
+        "description": "신축성과 통기성이 좋은 소재의 의류입니다",
+        "url": "/images/image/7.webp"
+      }
+  ]
